@@ -94,5 +94,5 @@ L’expérience met ainsi en évidence les **bénéfices des principes de DeepMi
 ## 🛠️ Installation
 1. **Cloner le dépôt :**
 ```bash
-git clone https://github.com/votre-nom-utilisateur/gridworld-rl-project-V3.git
+git clone https://github.com/YoussefAIDT/gridworld-rl-project-V3.git
 cd gridworld-rl-project-V3
